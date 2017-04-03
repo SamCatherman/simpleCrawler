@@ -1,0 +1,58 @@
+Tesla Passes Ford by Market Value
+https://www.bloomberg.com/news/articles/2017-04-03/tesla-passes-ford-by-market-value-before-musk-delivers-model-3
+Android overtakes Windows as the internet’s most used operating system
+https://techcrunch.com/2017/04/03/statcounter-android-windows/
+Ask HN: Who is hiring? (April 2017)
+item?id=14023198
+'Hitler Tamed by Prison' (1924)
+https://www.washingtonpost.com/news/volokh-conspiracy/wp/2017/04/03/new-york-times-in-1924-hitler-tamed-by-prison/
+Every attempt to manage academia makes it worse
+https://svpow.com/2017/03/17/every-attempt-to-manage-academia-makes-it-worse/
+Interesting data structures: the BK-tree
+http://signal-to-noise.xyz/post/bk-tree/
+Show HN: Is It Snappy? – Measure latency with your iPhone's 240 Hz camera
+http://isitsnappy.com
+Hacking DNA: CRISPR, Ken Thompson, and the Gene Drive
+https://blog.ycombinator.com/hacking-dna-the-story-of-crispr-ken-thompson-and-the-gene-drive/
+Show HN: Fake SMTP server as a service
+https://develmail.com
+Why Did Greenland’s Vikings Vanish?
+http://www.smithsonianmag.com/history/why-greenland-vikings-vanished-180962119/
+A Las Vegas algorithm to solve the elliptic curve discrete logarithm problem [pdf]
+https://arxiv.org/abs/1703.07544
+Amazon Cash
+https://www.amazon.com/b/?node=14583169011
+Python coding interview challenges
+https://github.com/donnemartin/coding-challenges
+Changes to USCIS policy on eligibility criteria for H1B visa
+https://www.axios.com/computer-programmers-may-no-longer-be-eligible-for-h-1b-visas-2342531251.html
+The Debugging Mindset
+http://queue.acm.org/detail.cfm?id=3068754
+What is Congress browsing?
+https://www.govtrack.us/sousveillance
+In Praise of Slowness
+https://lareviewofbooks.org/?p=238271&post_type=article&preview=1&_ppp=84bd28553a
+Social media's effect on journalism is greater than shift from print to digital
+http://www.cjr.org/tow_center_reports/platform-press-how-silicon-valley-reengineered-journalism.php
+For 18 years, I thought she was stealing my identity. Until I found her
+https://www.theguardian.com/us-news/2017/apr/03/identity-theft-racial-justice
+Why Isn’t OpenBSD in Google Summer of Code 2017?
+http://marc.info/?l=openbsd-misc&m=149119308705465&w=2
+Amazon Planning a Microsoft Office Killer
+http://news.softpedia.com/news/amazon-planning-a-microsoft-office-killer-513306.shtml
+Invisible Manipulators of the Mind
+http://www.nybooks.com/articles/2017/04/20/kahneman-tversky-invisible-mind-manipulators/
+Medieval villagers mutilated the dead to stop them rising, study finds
+https://www.theguardian.com/science/2017/apr/03/medieval-villagers-mutilated-the-dead-to-stop-them-rising-study-finds
+The Man Who Made the UK Say “I’m Sorry for What We Did to Turing” (2014)
+https://backchannel.com/the-man-who-made-the-uk-say-im-sorry-for-what-we-did-to-turing-8fc468dcea6b
+Tech’s Wealthy Enclaves Hurt the Country–and Tech Itself
+https://www.wired.com/2017/04/techs-wealthy-enclaves-hurt-country-tech/
+The customer is always wrong: Tesla lets out self-driving car data when it suits
+https://www.theguardian.com/technology/2017/apr/03/the-customer-is-always-wrong-tesla-lets-out-self-driving-car-data-when-it-suits
+Discussions with Apple regarding license agreement
+https://www.imgtec.com/news/press-release/discussions-with-apple-regarding-license-agreement/
+Application-Level Consensus [pdf]
+http://weareadaptive.com/wp-content/uploads/2017/03/Application-Level-Consensus.pdf
+I made our office play personalized entrance theme music
+https://dev.to/buntine/hulkamania-or-how-i-made-our-office-play-personalized-entrance-theme-music
