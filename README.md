@@ -1,1 +1,1 @@
-Following a tutorial building a few basic web scrapers with Node.Js and Cheerio, Request and URL dependencies. UI to come soon. 
+Following a tutorial building a few basic web scrapers with Node.Js and Cheerio, Request and URL dependencies (http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/). UI to come soon. 

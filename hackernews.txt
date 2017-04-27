@@ -56,3 +56,33 @@ Application-Level Consensus [pdf]
 http://weareadaptive.com/wp-content/uploads/2017/03/Application-Level-Consensus.pdf
 I made our office play personalized entrance theme music
 https://dev.to/buntine/hulkamania-or-how-i-made-our-office-play-personalized-entrance-theme-music
+Tim Berners-Lee wins Turing Award,https://news.mit.edu/2017/tim-berners-lee-wins-turing-award-0404
+The Problems with Swagger,http://blog.novatec-gmbh.de/the-problems-with-swagger/
+Jupyter Notebook 5.0,http://blog.jupyter.org/2017/04/04/jupyter-notebook-5-0/
+Over the Air: Exploiting Broadcom’s Wi-Fi Stack,https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+Why Momentum Works,http://distill.pub/2017/momentum/
+Show HN: React-data sheet, Excel-like spreadsheet component,https://nadbm.github.io/react-datasheet/
+Formula 1: Building the world’s fastest cars,https://arstechnica.com/cars/2017/04/formula-1-technology/
+Django 1.11 Released,https://www.djangoproject.com/weblog/2017/apr/04/django-111-released/
+Gameboy Advance Development by Example: Drawing and Moving Sprites,http://kylehalladay.com/blog/tutorial/2017/04/04/GBA-By-Example-2.html
+Kim Stanley Robinson’s “New York 2140”,http://nymag.com/selectall/2017/03/kim-stanley-robinsons-new-york-2140-review-a-drowned-nyc.html
+Building a scalable time-series database on PostgreSQL,https://blog.timescale.com/when-boring-is-awesome-building-a-scalable-time-series-database-on-postgresql-2900ea453ee2
+Reddit’s April Fools’ experiment,https://arstechnica.com/gaming/2017/04/in-memoriam-reddits-72-hour-live-graffiti-wall-as-a-social-experiment/
+Revealing Capcom’s Custom Silicon Security,http://arcadehacker.blogspot.com/2017/03/a-journey-into-capcoms-cps2-silicon.html
+What I Learned Managing Site Reliability for Some of the Busiest Gambling Sites,https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/
+Gödel's Incompleteness Theorems (2015),https://plato.stanford.edu/entries/goedel-incompleteness/
+Secure C coding standards by SEI,https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard
+Show HN: Dnote – Instantly Capture Your Coding Wisdom,https://dnote.io/
+The Ketchup Conundrum (2004),http://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum
+Ask HN: What are you working on?,item?id=14030149
+Learning to Rank 101 – Linear Models,http://opensourceconnections.com/blog/2017/04/01/learning-to-rank-linear-models/
+The route to high-speed quantum computing is paved with error,https://arstechnica.com/science/2017/04/the-route-to-high-speed-quantum-computing-is-paved-with-error/
+Practical RL – A course in reinforcement learning in the wild,https://github.com/yandexdataschool/Practical_RL
+Benchmarking shared memory vs message passing on OS X,http://blog.antoniofrighetto.com/ipc
+The Mac Pro Lives,http://daringfireball.net/2017/04/the_mac_pro_lives
+How to rickroll Spotify for Android,https://github.com/kjempelodott/rickify
+The Making of the Medieval-Inspired 3D Printed Women’s Sovereign Armor,http://lumecluster.com/making-of-sovereign-armor/
+Mexican Newspaper Shuts Down, Saying It Is Too Dangerous to Continue,https://www.nytimes.com/2017/04/03/world/americas/el-norte-closes-mexican-newspaper.html
+Why F.E.A.R.’s AI is still the best in first-person shooters,https://www.rockpapershotgun.com/2017/04/03/why-fears-ai-is-still-the-best-in-first-person-shooters/
+The First Deuterated Drug Arrives,http://blogs.sciencemag.org/pipeline/archives/2017/04/04/the-first-deuterated-drug-arrives
+Show HN: A ncurses CRM system (and accounting),item?id=14029986
